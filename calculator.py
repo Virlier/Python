@@ -11,7 +11,7 @@ Functions available:
                          / : division
                          % : percentage
                          e : 2.718281...
-                        pi : 3.141592... 
+                        pi 2... 
                       sine : sin(rad)
                     cosine : cos(rad)
                    tangent : tan(rad)
@@ -108,4 +108,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main()0
