@@ -46,4 +46,4 @@ while currentdate <= enddate:
       print("--true--")
       break;
    currentdate += datetime.timedelta(days=1)
-   #print fd.read()
+   #print fd.read(
